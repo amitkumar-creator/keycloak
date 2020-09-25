@@ -218,9 +218,9 @@ th.w-40 {
 }
 
 .sidebar-pf .nav-pills > li > a:hover{
-  background: #415e78;
-  border-color:#415e78; 
-  border-left-color: #415e78;
+  background: #eec55c;
+  border-color:#eec55c; 
+  border-left-color: #eec55c;
   color: #fff;
 }
 
@@ -230,8 +230,8 @@ th.w-40 {
 
 
 .sidebar-pf .nav-pills > li.active > a {
-  color:white;
-  background: #415e78!important;
+  color:black;
+  background: #eec55c!important;
   border-bottom: 1px solid #000!important;
   border-top: 1px solid #000!important;
   border-left-color: #5c5151!important;
